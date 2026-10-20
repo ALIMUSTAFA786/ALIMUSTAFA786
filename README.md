@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **html,css,javascript**
+- 🌱 I’m currently learning **html,css,javascript,SQL**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 💬 Ask me about **html,css,javascript**
+- 💬 Ask me about **html,css,javascript,SQL**
 
 - 📫 How to reach me **aliaftabmorai@gmail.com**
 
