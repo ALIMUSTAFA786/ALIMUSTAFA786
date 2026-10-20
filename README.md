@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,html,css,javascript,git,github" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,javascript,git,github" alt="Languages and Tools"/>
 </p>
 
 ### ☁️ Cloud Technologies I'm Learning
