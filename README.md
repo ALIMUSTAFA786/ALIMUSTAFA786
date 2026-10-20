@@ -39,16 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUSTAFA786&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUSTAFA786&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
 ---
 
 ### ⚡ Fun Fact
