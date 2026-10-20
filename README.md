@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ali Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi, I'm Ali Mustafa 👋
 
-- 🌱 I’m currently learning **html,css,javascript,SQL**
+### ☁️ Multi-Cloud Data Engineering Learner | Cloud Computing Student
 
-- 👯 I’m looking to collaborate on **github**
+- 🌱 I'm currently learning **Multi-Cloud Data Engineering**.
+- ☁️ Exploring cloud platforms like **AWS, Microsoft Azure, and Google Cloud (GCP)**.
+- 💻 Learning **Python, SQL, Data Engineering, and Cloud Computing**.
+- 🤝 I'm looking to collaborate on cloud computing and data engineering projects.
+- 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript, and Cloud Computing**.
+- 🎯 My goal is to become a **Cloud Data Engineer**.
+- 📫 How to reach me: **Your Email Address**
 
-- 💬 Ask me about **html,css,javascript,SQL**
+---
 
-- 📫 How to reach me **aliaftabmorai@gmail.com**
+### 🤝 Connect with me
 
-- ⚡ Fun fact ***#DataScience more than #Web Development While doing job as FrontEnd Developer 😂***
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/ALIMUSTAFA786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimustafa786&show_icons=true&locale=en&layout=compact" alt="alimustafa786" /></p>
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,html,css,javascript,git,github" alt="Languages and Tools"/>
+</p>
+
+### ☁️ Cloud Technologies I'm Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux" alt="Cloud Technologies"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIMUSTAFA786&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIMUSTAFA786&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I'm building my skills in cloud computing and data engineering, one project at a time! 🚀
