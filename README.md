@@ -8,7 +8,7 @@
 - 🤝 I'm looking to collaborate on cloud computing and data engineering projects.
 - 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript, and Cloud Computing**.
 - 🎯 My goal is to become a **Cloud Data Engineer**.
-- 📫 How to reach me: **Your Email Address**
+- 📫 How to reach me: aliaftabmora@gmail.com
 
 ---
 
